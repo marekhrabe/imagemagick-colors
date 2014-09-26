@@ -1,4 +1,4 @@
-module.exports = [
+module.exports = {
   "snow": "rgb(255, 250, 250)",
   "snow1": "rgb(255, 250, 250)",
   "snow2": "rgb(238, 233, 233)",
@@ -673,4 +673,4 @@ module.exports = [
   "opaque": "rgb(0, 0, 0)",
   "none": "rgba(0, 0, 0, 0.0)",
   "transparent": "rgba(0, 0, 0, 0.0)",
-];
+};
