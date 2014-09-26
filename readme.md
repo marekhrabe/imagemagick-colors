@@ -4,6 +4,10 @@ A lookup table of colors that ImageMagick knows. Mind that colors in this table 
 
 ## Usage
 
+```bash
+npm install imagemagick-colors
+```
+
 ```js
 var colors = require('imagemagick-colors')
 
