@@ -1,6 +1,6 @@
 {
   "name": "imagemagick-colors",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lookup table of ImageMagick colors",
   "main": "index.js",
   "repository": {
