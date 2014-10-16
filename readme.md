@@ -2,6 +2,8 @@
 
 A lookup table of colors that ImageMagick knows. Mind that colors in this table are **lowercased**, so you shold lookup `LavenderBlush3` as `lavenderblush3` to get its rgb or rgba string value.
 
+Colors are parsed from official docs: http://www.imagemagick.org/script/color.php
+
 ## Usage
 
 ```bash
